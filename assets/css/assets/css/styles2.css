@@ -1,0 +1,45 @@
+body{
+    background-color: rgba(37, 37, 37, 0.507);
+}
+.head{
+    text-align: center;
+}
+.line{
+    background-color: gray;
+    display: line;
+    width: 1000px;
+    margin: 0 25px 25px 0;
+}
+.line h2{
+    color: white;
+
+}
+.red{
+    color: red;
+}
+.backwithe{
+    display: inline;
+    background-color: white;
+}
+.textone p{
+    padding-left: 205px;
+    margin-bottom: 10px;
+    
+
+}
+.textone img {
+    max-width: 10%;
+ max-height: 10%;
+ padding-left: 0;
+}
+.textotwo p{
+    padding-left: 205px;
+    margin-bottom: 10px;
+    
+
+}
+.textotwo img {
+    max-width: 10%;
+ max-height: 10%;
+ padding-left: 0;
+}
